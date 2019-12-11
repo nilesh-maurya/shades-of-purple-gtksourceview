@@ -56,6 +56,7 @@
     <style name="background-pattern"         background="dark-purple"/>
     <style name="search-match"               background="dark-green"/>
     <style name="bookmark"                   background="yellow"/>
+    <style name="cursor"                     foreground="orange"/>
 
 <!-- Types -->
     <style name="def:comment"                foreground="lighter-purple" italic="true"/>
